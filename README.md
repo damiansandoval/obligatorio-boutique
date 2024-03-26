@@ -69,7 +69,7 @@ Finalmente haremos el despliegue recorriendo por última vez la lista MICROSERVI
 ## Despliegue de la APP:
 
 - Para poder realizar un correcto despliegue de la solución, previamente habrá que iniciar el ambiente de laboratorio y actualizar las credenciales
-En el archivo ~/.aws/credentials asi como tambien descargar el archivo vockey.pem, moverlo dentro de la carpeta resources y cambiarle los permisos (chmod 400 vockey.pem).
+En el archivo ~/.aws/credentials asi como tambien descargar el archivo damian.pem, moverlo dentro de la carpeta resources y cambiarle los permisos (chmod 400 damian.pem).
 
 - Otra cosa importante, tener en cuenta que en el archivo instances.tf en la linea 30 se encuentra el siguiente bloque de código que hay que modificar según el usuario:
 

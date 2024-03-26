@@ -33,5 +33,5 @@ terraform.rc
 *Zone.Identifier
 
 
-#Agrego el vockey.pem
-**/vockey.pem
+#Agrego el damian.pem
+**/damian.pem
